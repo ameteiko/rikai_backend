@@ -1,0 +1,2 @@
+# Rikai project
+
